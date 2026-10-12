@@ -2,6 +2,11 @@
 
 A PDF-based question-answering chatbot built in Google Colab using SBI’s Doorstep Banking Policy Version 5.0.
 
+## Source Document
+The source PDF is included as `POLICY ON DSB SERVICES 5.0.pdf`.
+
+Download this PDF from the repository and upload it when prompted in Google Colab.
+
 ## Technologies
 - Python
 - Google Gemini
